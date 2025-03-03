@@ -1,3 +1,4 @@
+<p><img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" width="100%" height="100%"/></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="hi" width="60" height="60" /></p> 
 <h1 align="center">Hi, 
 I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=3B56F7&center=true&vCenter=true&width=435&lines=Akshita Sood" alt="Typing SVG" /></a></h1>

@@ -1,11 +1,9 @@
-<p><img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" width="100%" height="100%"/></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="hi" width="60" height="60" /></p> 
-<h1 align="center">Hi, 
-I'm <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=3B56F7&center=true&vCenter=true&width=435&lines=Akshita Sood" alt="Typing SVG" /></a></h1>
+<p><img src="https://github.com/akshitasood08/akshitasood08/blob/main/github-header-image%20(4).png" width="100%" height="100%"/></p>
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder_girl" width="450" 
      height="300"  /> </p>
-
-<h3 align="center">𝑨 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+<div align="center">
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=ffd966&center=true&vCenter=true&width=435&lines=A Passionate Developer" alt="Typing SVG" /></a></h1> </div>
 
 I'm a Computer Science Engineering Student at [Chandigarh University](https://https://www.cuchd.in/) eager to kickstart a career in Tech fields. I enjoy turning complex problems into simple, beautiful and intuitive designs. I'm very passionate about learning and adapting new technologies and skills. I possess a good foundation in theoretical concepts and practical experience gained through coursework and projects. Seeking an opportunity to contribute to a dynamic team and gain hands-on experience in industry.
 

@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder_girl" width="450" 
      height="300"  /> </p>
 <div align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=ffd966&center=true&vCenter=true&width=435&lines=A Passionate Developer" alt="Typing SVG" /></a></h1> </div>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A Passionate Developer" alt="Typing SVG" /></a></h1> </div>
 
 I'm a Computer Science Engineering Student at [Chandigarh University](https://https://www.cuchd.in/) eager to kickstart a career in Tech fields. I enjoy turning complex problems into simple, beautiful and intuitive designs. I'm very passionate about learning and adapting new technologies and skills. I possess a good foundation in theoretical concepts and practical experience gained through coursework and projects. Seeking an opportunity to contribute to a dynamic team and gain hands-on experience in industry.
 

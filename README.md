@@ -7,6 +7,9 @@
 
 I'm a Computer Science Engineering Student at [Chandigarh University](https://https://www.cuchd.in/) eager to kickstart a career in Tech fields. I enjoy turning complex problems into simple, beautiful and intuitive designs. I'm very passionate about learning and adapting new technologies and skills. I possess a good foundation in theoretical concepts and practical experience gained through coursework and projects. Seeking an opportunity to contribute to a dynamic team and gain hands-on experience in industry.
 
+<div align="center">
+<a  href="#"><img  src="https://github.com/akshitasood08/akshitasood08/blob/main/themed_line.svg" alt="Footer SVG" /></a> </div>
+
 <div align="center"> 
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" />
 </div>
@@ -21,6 +24,9 @@ I'm a Computer Science Engineering Student at [Chandigarh University](https://ht
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
       </a>
 </div>
+
+<div align="center">
+<a  href="#"><img  src="https://github.com/akshitasood08/akshitasood08/blob/main/themed_line.svg" alt="Footer SVG" /></a> </div>
 
 # My journey so far....
 ## 🚀 Skills & Technologies  
@@ -38,7 +44,6 @@ I'm a Computer Science Engineering Student at [Chandigarh University](https://ht
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitasood08&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
-
 
 ## GitHub Contributions Graph
 <div align="center">
@@ -61,5 +66,6 @@ I'm a Computer Science Engineering Student at [Chandigarh University](https://ht
 
 <div align="center">
 <a  href="#"><img  src="https://github.com/akshitasood08/akshitasood08/blob/main/wave_animation.svg" alt="Footer SVG" /></a> </div>
-
+<div align="center">
+<a  href="#"><img  src="https://github.com/akshitasood08/akshitasood08/blob/main/themed_line.svg" alt="Footer SVG" /></a> </div>
   

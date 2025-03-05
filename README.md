@@ -50,6 +50,8 @@ I'm a Computer Science Engineering Student at [Chandigarh University](https://ht
     <img src="https://ghchart.rshah.org/akshitasood08" alt="Hoang Son's Repos Contributions" />
 </div>
 
+<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
+
 <!---### Visitor Count![](https://komarev.com/ghpvc/?username=akshitasood08&color=green) -->
 
 ## GitHub Trophies

@@ -1,9 +1,9 @@
-<p><img src="https://github.com/akshitasood08/akshitasood08/blob/main/github-header-image%20(4).png" width="100%" height="100%"/></p>
+[![Hello👋, I'm Akshita Sood, A Software Engineer](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20Software%20Engineer&title=Hello%F0%9F%91%8B%2C%20I%27m%20Akshita%20Sood)](https://pimp-my-readme-next.vercel.app)
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder_girl" width="450" 
      height="300"  /> </p>
 <div align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A Passionate Developer" alt="Typing SVG" /></a></h1> </div>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=1000&color=000000&center=true&vCenter=true&width=550&lines= Welcome to my Workspace!" alt="Typing SVG" /></a></h1> </div>
 
 
 <div align="center">

@@ -19,7 +19,7 @@
       <a href="mailto:soodakshita2537@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
       </a>
-          <a href="#" target="_blank">
+          <a href="https://www.instagram.com/spellbound_soul?igsh=MW8xM2I2bmJ6MXRoaQ==" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
       </a>
 </div>

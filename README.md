@@ -71,6 +71,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=akshitasood08&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
 </div>
 
+## Github Stats
+<p align="center">
+  <img width=720 src="https://stats.dooboo.io/api/github-stats-advanced?login=akshitasood08" alt="akshitasood08 github-stats"><br>
+  <img width=720 src="https://stats.dooboo.io/api/github-trophies?login=akshitasood08" alt="akshitasood08 github-trophies">
+</p>
 
 
 <div align="center">

@@ -66,10 +66,10 @@
 
 <!---### Visitor Count![](https://komarev.com/ghpvc/?username=akshitasood08&color=green) -->
 
-## GitHub Trophies
-<div align="center">
+<!--- ## GitHub Trophies
+ <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=akshitasood08&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
-</div>
+</div> -->
 
 ## Github Stats
 <p align="center">

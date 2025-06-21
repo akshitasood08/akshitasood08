@@ -2,9 +2,8 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="coder_girl" width="450" 
      height="300"  /> </p>
-<div align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=1000&color=000000&center=true&vCenter=true&width=550&lines= Welcome to my Workspace!" alt="Typing SVG" /></a></h1> </div>
 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=40&pause=1000&color=F75B9A&center=true&vCenter=true&width=435&lines=This+is+my+workspace+!" alt="typing_svg"  /> </div>
 
 <div align="center">
 <a  href="#"><img  src="https://github.com/akshitasood08/akshitasood08/blob/main/themed_line.svg" alt="Footer SVG" /></a> </div>
